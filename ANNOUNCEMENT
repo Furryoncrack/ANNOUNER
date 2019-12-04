@@ -1,0 +1,8 @@
+{
+  "content": "THIS IS A TEST",
+  "tts": false,
+  "embed": {
+    "title": "TEST",
+    "description": "THIS IS AN EMBEDDED TEST MESSAGE"
+  }
+}
